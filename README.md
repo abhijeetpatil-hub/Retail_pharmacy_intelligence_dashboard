@@ -1,5 +1,8 @@
 # Retail Pharmacy Intelligence Dashboard
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhijeetpatil-hub/Retail_pharmacy_intelligence_dashboard/main)
+
+
 ## 🚀 Project Overview
 
 An **interactive Streamlit dashboard** designed to help retail pharmacy owners, inventory managers, and business analysts monitor key performance indicators (KPIs), track sales performance, identify expiry risk, and make fast, data-driven decisions in real-time.
