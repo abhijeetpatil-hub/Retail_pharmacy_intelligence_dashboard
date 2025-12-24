@@ -50,7 +50,7 @@ These insights help reduce waste, improve inventory turnover, and optimize sales
 
 ## 🔍 Dashboard Preview
 
-Below are sample visual outputs from the dashboard:
+“The dashboard presents the following insights:”
 
 ### 📊 Sales Overview Dashboard
 
@@ -86,6 +86,14 @@ pip install -r requirements.txt
 
 4.Run the Streamlit application:
 streamlit run app.py
+
+## 🚀 Run Online (Binder)
+
+This project can be launched directly in your browser using **Binder** (no installation required).  
+Click the badge at the top of this README or the link below:
+
+👉 https://mybinder.org/v2/gh/abhijeetpatil-hub/Retail_pharmacy_intelligence_dashboard/main
+
 
 ## 🎯 Target Users
 
