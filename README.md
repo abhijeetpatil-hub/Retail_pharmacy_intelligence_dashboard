@@ -1,5 +1,8 @@
+
 # Retail Pharmacy Intelligence Dashboard
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/abhijeetpatil-hub/Retail_pharmacy_intelligence_dashboard/main)
+
 
 
 ## 🚀 Project Overview
