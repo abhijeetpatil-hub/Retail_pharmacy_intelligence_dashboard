@@ -50,7 +50,8 @@ These insights help reduce waste, improve inventory turnover, and optimize sales
 
 Below are sample visual outputs from the dashboard:
 
-### 📈 Sales Overview
+### 📊 Sales Overview Dashboard
+
 ![Sales Overview](visuals/dashboard_overview.png)
 
 ### ⚠️ Expiry & Inventory Risk
